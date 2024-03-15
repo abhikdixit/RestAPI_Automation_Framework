@@ -1,0 +1,15 @@
+com\graphql\tests\GraphQL_QueryTest.class
+com\spree\Create_Addresses_All_Negative_Scenarios.class
+com\spree\Get_Default_Country.class
+com\Base64\tests\Base64_Example.class
+com\spree\Create_Cart_AddItem_Associate_User.class
+com\spree\Create_Refresh_Token.class
+com\spree\Create_an_Address_also_Update_An_Address_Using_File.class
+com\spree\Retrieve_a_Country.class
+com\Base64\tests\Base64_API_Example.class
+com\spree\Create_An_Address_Using_File.class
+com\spree\Create_Multiple_Addresses_Using_TestData.class
+com\spree\Spreecom_TestData.class
+com\spree\BaseClass.class
+com\spree\Delete_All_Addresses.class
+com\spree\Create_Delete_An_Address.class

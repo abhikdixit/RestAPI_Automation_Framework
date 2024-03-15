@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Batch test run">
+  <test name="Smoke Test">
+    <classes>
+      <class name="com.spree.Get_Default_Country"/>
+      <class name="com.spree.Retrieve_a_Country"/>
+      <class name="com.spree.Create_Refresh_Token"/>
+    </classes>
+  </test>
+</suite>
