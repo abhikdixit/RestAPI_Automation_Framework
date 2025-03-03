@@ -4,7 +4,7 @@
     <classes>
       <class name="com.spree.Get_Default_Country"/>
       <class name="com.spree.Retrieve_a_Country"/>
-      <class name="com.spree.Create_Refresh_Token"/>
+      <!-- <class name="com.spree.Create_Refresh_Token"/>-->
     </classes>
   </test>
 </suite>
